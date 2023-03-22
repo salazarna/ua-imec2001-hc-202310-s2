@@ -2,8 +2,8 @@
 
 # IMEC2001 Herramientas Computacionales 
 Ciclo de Talleres <br>
-Curso Obligatorio – Sección 1 <br>
-2023-1 – Ciclo 1 <br>
+Curso Obligatorio – Sección 2 <br>
+2023-1 – Ciclo 2 <br>
 
 ## Horario de clases
 Miércoles y viernes de 14:00 a 15:50h en el **Q-508**.
@@ -87,14 +87,14 @@ En Bloque Neón se dispone un foro como medio centralizado para la resolución d
 ## Contenido y cronograma del curso
 | Semana | Temática                                                                   | Fecha             | Talleres        |
 |:------:|:-------------------------------------------------------------------------- |:-----------------:|:---------------:|
-|   1    | Introducción a Python y Jupyter Notebooks                                  | Enero 25 y 27     |                 |
-|   2    | Gráficas y visualización (ajuste de datos, estadística, barras de error)   | Febrero 1 y 3     |                 |
-|   3    | Interpolación (curva de una bomba)                                         | Febrero 8 y 10    | T1 (Febrero 19) |
-|   4    | Raíces de ecuaciones (factor de fricción de Darcy)                         | Febrero 15 y 17   |                 |
-|   5    | Sistemas de ecuaciones (estática, e.g., cerchas)                           | Febrero 22 y 24   | T2 (Marzo 5) P (Marzo 19)    |
-|   6    | Optimización (operación de sistema eólico y de bombeo)                     | Marzo 1 y 3       |                 |
-|   7    | ODEs (incertidumbre-propagación, dinámica)                                 | Marzo 8 y 10      | T3 (Marzo 19)   |
-|   8    | FFT (señales de péndulos y audio)                                          | Marzo 15 y 17     |                 |
+|   1    | Introducción a Python y Jupyter Notebooks                                  | Marzo 29 y 31     |                 |
+|   2    | Gráficas y visualización (ajuste de datos, estadística, barras de error)   | Abril 12 y 14     |                 |
+|   3    | Interpolación (curva de una bomba)                                         | Abril 19 y 21    | T1 (Abril 30) |
+|   4    | Raíces de ecuaciones (factor de fricción de Darcy)                         | Abril 26 y 28   |                 |
+|   5    | Sistemas de ecuaciones (estática, e.g., cerchas)                           | Mayo 3 y 5   | T2 (Mayo 14) P (Mayo 28)    |
+|   6    | Optimización (operación de sistema eólico y de bombeo)                     | Mayo 10 y 12       |                 |
+|   7    | ODEs (incertidumbre-propagación, dinámica)                                 | Mayo 17 y 19      | T3 (Mayo 28)   |
+|   8    | FFT (señales de péndulos y audio)                                          | Mayo 24 y 26     |                 |
 
 ## Sistema de evaluación del curso
 La evaluación del curso se realizará mediante seis (6) talleres, actividades en clase y un (1) proyecto. Los entregables evalúan el estado de desarrollo de cada uno de los objetivos del curso: (i.) resolver problemas de ingeniería al aplicar modelos cuantitativos y simulaciones; (ii.) comunicar ideas con claridad; y (iii.) demostrar destrezas de autoeducación.
