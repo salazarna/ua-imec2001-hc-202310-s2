@@ -131,7 +131,7 @@ Es responsabilidad del estudiante ser el centro de su propio aprendizaje y distr
 - Wes McKinney (2018). Python Data Analysis, 2nd Edition, USA. O’Reilly. ISBN 13: 978-1-491-95766-0.
 
 #### Repositorio
-Para [clonar](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository) el repositorio `ua-imec2001-hc-202310-s1` se recomienda usar el software [GitHub Desktop](https://desktop.github.com/). La URL del repositorio es: [https://github.com/salazarna/ua-imec2001-hc-202310-s1](https://github.com/salazarna/ua-imec2001-hc-202310-s1).
+Para [clonar](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository) el repositorio `ua-imec2001-hc-202310-s2` se recomienda usar el software [GitHub Desktop](https://desktop.github.com/). La URL del repositorio es: [https://github.com/salazarna/ua-imec2001-hc-202310-s2](https://github.com/salazarna/ua-imec2001-hc-202310-s2).
 
 Otra opción es desde el terminal con en el [ambiente](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) activado; para esto ejecute:
 
